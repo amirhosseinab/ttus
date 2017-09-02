@@ -1,1 +1,1 @@
-web: ttus
+web: server
